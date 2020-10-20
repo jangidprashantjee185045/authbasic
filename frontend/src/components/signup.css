@@ -1,0 +1,32 @@
+.signup{
+    padding:20px 10px;
+    text-align: center;
+    font-family:cursive;
+    margin:6% auto;
+    height: auto;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+}
+.join-input{
+    border-radius: 8px;
+    padding: 5px 8px;
+    font-size: 1.2rem;
+    margin:7px 0px;
+    border: none;
+    background: lightgray;
+}
+
+#btn{
+     margin: 5px auto; 
+     max-width: 50%;
+    
+}
+
+#btn:hover{
+    background:gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
