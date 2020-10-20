@@ -1,0 +1,18 @@
+.Navbar{
+    display: flex;
+    color: indigo;    
+  font-family: cursive; 
+  font-size: 1.7rem; 
+  padding: 5px 20px;  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.icon-navbar{
+  margin:0px 15px;
+}
+.icon-navbar :Link{
+    text-decoration: none;
+}
+#btn2:hover{
+  background-color: tomato;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
